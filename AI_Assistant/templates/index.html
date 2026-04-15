@@ -1,0 +1,9 @@
+<form method="POST">
+  <input name="query" placeholder="Ask something..." />
+  <button type="submit">Ask</button>
+</form>
+
+{% if result %}
+<h3>Response:</h3>
+<p>{{ result }}</p>
+{% endif %}
