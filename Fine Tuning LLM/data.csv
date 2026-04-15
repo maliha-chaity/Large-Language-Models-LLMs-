@@ -1,0 +1,5 @@
+text,label
+Login failed 5 times.,1
+User logged in successfully.,0
+Multiple password attempts detected.,1
+System rebooted normally.,0
